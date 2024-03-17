@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "617331817439",
+    "project_id": "socialpuig-9dc90",
+    "storage_bucket": "socialpuig-9dc90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617331817439:android:5d4fad26c01903365d626a",
+        "android_client_info": {
+          "package_name": "com.example.socialpuig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617331817439-9ag9tdtlhgqhku660h703vp3c20qkat0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.socialpuig",
+            "certificate_hash": "0208c187e95675426f022a5c54cb3a480df7b7eb"
+          }
+        },
+        {
+          "client_id": "617331817439-54jsea795gs3naag9sogqi7qk6sm5f2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmZL-oyFo0wVQFruTmd8XX2k379Z79UVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617331817439-54jsea795gs3naag9sogqi7qk6sm5f2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
